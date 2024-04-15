@@ -1,0 +1,1 @@
+const ALL = "all";
